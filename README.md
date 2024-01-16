@@ -1,4 +1,5 @@
 # Allowed custom kernels for MaterialHunter
+### Some kernels are available for download from GitHub, or Telegram (MaterialHunter chat in Telegram).
 ## Google
 - [Pixel 3A / 3A XL](https://github.com/Nougat-User/sargo_nethunter) (Nougat-User)
 ## Xiaomi
